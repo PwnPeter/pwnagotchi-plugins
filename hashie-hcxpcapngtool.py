@@ -21,7 +21,7 @@ hcxpcapngtool needed, to install:
 
 class hashie(plugins.Plugin):
     __author__ = 'junohea.mail@gmail.com'
-    __version__ = '1.0.2'
+    __version__ = '1.0.3'
     __license__ = 'GPL3'
     __description__ = '''
                         Attempt to automatically convert pcaps to a crackable format.
