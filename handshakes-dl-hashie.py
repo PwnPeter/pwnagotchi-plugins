@@ -70,7 +70,7 @@ class handshakes:
 
 class HandshakesDL(plugins.Plugin):
     __author__ = 'me@sayakb.com'
-    __version__ = '0.2.2'
+    __version__ = '1.0.0'
     __license__ = 'GPL3'
     __description__ = 'Download handshake captures from web-ui.'
 
